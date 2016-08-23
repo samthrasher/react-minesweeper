@@ -1,5 +1,5 @@
 .gitignore
-widgets/
+../widgets/
 bundle.js
 bundle.js.map
 node_modules/
